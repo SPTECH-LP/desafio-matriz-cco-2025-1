@@ -1,3 +1,6 @@
+
+![readme](https://github.com/user-attachments/assets/c2779261-b2e2-4df8-bf0b-11d7b9b34af7)
+
 # Mini-Jogo "Caça ao Tesouro" em JavaScript
 ## 🚩 Objetivo:
 Criar um jogo simples em JavaScript onde o jogador deve encontrar tesouros escondidos em um mapa bidimensional (matriz), utilizando conceitos de matrizes para gerenciar as posições dos tesouros e das armadilhas.
